@@ -1,3 +1,5 @@
+//OBSERVAÇÃO: PROFESSOR LIBEROU LINK DO REPOSITÓRIO DO EXERCÍCIO E FOI SOLUCIONADO JUNTO COM ELE EM VÍDEO!
+
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.DisplayName
 import org.junit.jupiter.api.Test
